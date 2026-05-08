@@ -10,7 +10,7 @@
 |------|------|------|------|
 | 👑 팀장 | 심수진 | 3D 아티스트 | 전체 연출 · 핑크 지하철 · AE 만화경 VFX (CUT14~15) |
 | 🎨 3D | 김애리 | 3D 아티스트 | 이리데센트 세계 (입장 문 · 아치 복도 · 퍼 텍스처) |
-| 🎨 3D | 장혜원 | 3D 아티스트 | 게임 월드 (브릭 · 파이프 · 코인 · Blueprint) |
+| 🎨 3D | 장혜원 | 3D 아티스트 | 게임 월드 (브릭 · 파이프 · 코인) |
 | 🎨 3D | 노민혁 | 3D 아티스트 | 음식 판타지 (버거 · 도넛 · 아이스크림) |
 | 💻 ICVFX | 강채연 | ICVFX 엔지니어 | 음식 · 게임 월드 UE5 레벨 |
 | 💻 ICVFX | 조현민 | ICVFX 엔지니어 | 지하철 · 이리데센트 UE5 레벨 |
@@ -48,7 +48,6 @@ Dopamine/
 | 렌더 파이프라인 | Lumen + Nanite |
 | 파티클 | Niagara |
 | VFX | After Effects · CC Kaleida · Optical Flares · Trapcode · Mocha AE |
-| 3D CGI | Blender Cycles (CUT17) |
 | 색보정 | DaVinci Resolve |
 | AI 영상 | Kling AI / Seedance AI |
 | 버전 관리 | Git + Git LFS |
@@ -131,7 +130,7 @@ git checkout -b feat/level-subway          # 조현민
 |------|------|------|
 | 🟡 프리프로덕션 | ~ 6/14 | UE5 씬 · VFX 템플릿 · AI 테스트 · 배우/의상 확정 |
 | 🎥 리허설 10~11주 | 6/15 ~ 6/26 | 팀별 리허설 · LED Wall 렌더링 테스트 · 수정 |
-| 🎥 본 촬영 12주 | 6/29 ~ 7/3 | 본 촬영 (웨스트월드 4명) |
+| 🎥 본 촬영 12주 | 6/29 ~ 7/3 | 본 촬영 |
 | ✂️ 포스트 | 7/6 ~ 7/16 | 렌더 · 편집 · 색보정 |
 | 🏁 최종 발표 | 7/24 | 팀별 결과 발표 |
 
@@ -145,4 +144,4 @@ git checkout -b feat/level-subway          # 조현민
 
 ---
 
-<p align="center">GCC_Dopamine Team Project · 2025<br>심수진 · 김애리 · 장혜원 · 노민혁 · 강채연 · 조현민</p>
+<p align="center">GCC_Dopamine Team Project · 2026<br>심수진 · 김애리 · 장혜원 · 노민혁 · 강채연 · 조현민</p>
