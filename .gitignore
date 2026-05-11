@@ -73,3 +73,23 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# UE5 빌드 제외
+Binaries/
+Build/
+Intermediate/
+Saved/
+DerivedDataCache/
+
+# 개인 설정 제외
+*.suo
+*.user
+.vsconfig
+.idea/
+
+# OS 파일
+.DS_Store
+Thumbs.db
+
+# .gitkeep은 추적 (이건 있어야 함)
+!.gitkeep
