@@ -1,0 +1,61 @@
+{
+    "majorVersion": 2,
+    "minorVersion": 0,
+    "engineName": "Unreal Engine",
+    "engineVersion": "5.6.0",
+    "pluginVersion": "RS2.0-UE5.6-v2",
+    "info": "",
+    "channels": [
+        "CineCameraActor_inner",
+        "CineCameraActor_outer",
+        "Fabric_World_RS_Cam",
+        "Food_World_RS_Cam",
+        "Game_World_RS_Cam",
+        "Iridescent_World_RS_Cam",
+        "SNS_World_RS_Cam",
+        "Subway_Gray_RS_Cam",
+        "Subway_Pink_RS_Cam"
+    ],
+    "schema": [
+        {
+            "name": "DemoMap",
+            "parameters": []
+        },
+        {
+            "name": "LVL_Main_Setting_World",
+            "parameters": []
+        },
+        {
+            "name": "LVL_Subway_Gray",
+            "parameters": []
+        },
+        {
+            "name": "LVL_Iridescent_World",
+            "parameters": []
+        },
+        {
+            "name": "LVL_Fabric_World",
+            "parameters": []
+        },
+        {
+            "name": "LVL_Food_World1",
+            "parameters": []
+        },
+        {
+            "name": "LVL_Game_World",
+            "parameters": []
+        },
+        {
+            "name": "LVL_SNS_DynamicSky",
+            "parameters": []
+        },
+        {
+            "name": "LVL_SNS_World",
+            "parameters": []
+        },
+        {
+            "name": "LVL_Subway_Pink",
+            "parameters": []
+        }
+    ]
+}
